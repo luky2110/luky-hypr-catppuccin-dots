@@ -35,5 +35,5 @@ sudo pacman -S waybar hyprpaper hyprshutdown playerctl qt5ct qt6t qt5-wayland qt
 ```
 After installation please also run this to enable them on boot
 ```
-systemctl enable --now polkit hyprpolkitagent
+sudo systemctl enable --now polkit hyprpolkitagent
 ```
