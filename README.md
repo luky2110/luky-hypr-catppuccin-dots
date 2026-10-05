@@ -42,5 +42,4 @@ sudo systemctl enable --now polkit hyprpolkitagent
 If you use a different terminal emulator than alacritty the shutdown button on the waybar might not work as it should.
 The files you need to worry about if that is the case are
 
-~/.config/waybar/power.sh
-~/.config/hypr/hyprland.lua (In the window rule section)
+~/.config/waybar/power.sh ~/.config/hypr/hyprland.lua (In the window rule section)
