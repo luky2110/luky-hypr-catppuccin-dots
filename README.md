@@ -15,4 +15,9 @@ Screenshooter: Grimblast (Super + S/PRT SC)
 
 Network: iwd + dhcpcd 
 
+If you wish to use the programs that I prefer then copy and paste this
+```
+sudo pacman -S thunar iwd dhcpcd grimblast wofi librewolf alacritty thunar
+```
+
 If you prefer to change the primary apps you will have to go into the config and change variables
