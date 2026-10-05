@@ -3,16 +3,16 @@ If you do not like something, change it youself but feel free to use it tho!
 
 # Program preferences
 
-File Explorer: Thunar
+File Explorer: Thunar (Super + E)
 
-Terminal: Alacritty
+Terminal: Alacritty (Super + Enter)
 
-Browser: Librewolf
+Browser: Librewolf (Super + B)
 
-App Launcher/Menu: Wofi
+App Launcher/Menu: Wofi (Super + Space)
 
-Screenshooter: grimblast
+Screenshooter: Grimblast (Super + S/PRT SC)
 
-Network: iwd + dhcpcd
+Network: iwd + dhcpcd 
 
 If you prefer to change the primary apps you will have to go into the config and change variables
