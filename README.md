@@ -31,7 +31,7 @@ If you prefer to change the primary apps you will have to go into the config and
 # Recommended Programs
 Without these your hyprland might not work as expected or miss features so please install all of these
 ```
-sudo pacman -S waybar hyprpaper hyprshutdown playerctl qt5ct qt6t qt5-wayland qt6-wayland ttf-jetbrains-mono-nerd polkit hyprpolkitagent xdg-desktop-portal-hyprland xdg-desktop-portal
+sudo pacman -S waybar hyprpaper hyprshutdown playerctl qt5ct qt6ct qt5-wayland qt6-wayland ttf-jetbrains-mono-nerd polkit hyprpolkitagent xdg-desktop-portal-hyprland xdg-desktop-portal
 ```
 After installation please also run this to enable them on boot
 ```
